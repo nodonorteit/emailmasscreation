@@ -1,0 +1,10 @@
+
+---
+
+### 📑 `migracion.csv` (ejemplo)
+
+```csv
+email,password
+juan@empresa.com,Passw0rd123
+maria@empresa.com,Segura456!
+luis@empresa.com,Clave789$
